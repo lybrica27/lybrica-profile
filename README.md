@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thuta Oo</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">A passionate web developer from Myanmar</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/lybrica27/lybrica-profile/assets/81669726/c6970fca-da20-4ccc-907b-82435f82d5ba">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lybrica27&label=Profile%20views&color=0e75b6&style=flat" alt="lybrica27" /> </p>
